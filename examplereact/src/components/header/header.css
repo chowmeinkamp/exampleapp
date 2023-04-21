@@ -1,0 +1,25 @@
+.header{
+    margin-top: 60px;
+}
+.headerTitles{
+    font-family: 'Merriweather Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.headerTitle1{
+    position:absolute;
+    top: 40%;
+    font-size: 50px;
+    color: red
+}
+.headerTitle2{
+    position: absolute;
+    top: 47%;
+    font-size: 90px;
+    color: red
+}
+.headerImg{
+    height: 400px;
+    width: 100%;
+}
